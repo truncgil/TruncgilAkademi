@@ -1,2 +1,2 @@
-#Trunçgil Akademi web site template.
+# Trunçgil Akademi web site template.
 
